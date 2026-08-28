@@ -17,7 +17,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+I'm+Jinay+Mehta;📊+Product+%26+Data+Analytics;🎓+Final+Year+at+IIT+Guwahati" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C%20I%27m%20Jinay%20Mehta;%F0%9F%93%8A%20Product%20%26%20Data%20Analytics;%F0%9F%8E%93%20Final%20Year%20at%20IIT%20Guwahati" alt="Typing SVG" />
 </div>
 
 ---
@@ -38,7 +38,11 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,fastapi,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,mysql,sklearn" />
+  </a>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,fastapi,supabase,github,figma" />
   </a>
   <br><br>
   <img src="./logos/gemini.png" width="40" height="40" alt="Google Gemini" title="Google Gemini" />
